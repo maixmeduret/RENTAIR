@@ -113,9 +113,7 @@ RETRY_TIMES = 5
 DOWNLOAD_TIMEOUT = 30
 COOKIES_ENABLED = False
 # Pour user agents random :
-DOWNLOADER_MIDDLEWARES = {
-    'scrapy_user_agents.middlewares.RandomUserAgentMiddleware': 400,
-}
+#DOWNLOADER_MIDDLEWARES = {'scrapy_user_agents.middlewares.RandomUserAgentMiddleware': 400,}
 
 
 
