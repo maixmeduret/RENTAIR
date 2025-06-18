@@ -1,0 +1,1 @@
+leboncoi.py permet le scraping, les autres sont les parametres d'execution. Pour leboncoin.py il faut ajouter une zone definie, sans zone ca bloque l'acces a leboncoin instant. Par exemple pour Gex pour appartements et maison : https://www.leboncoin.fr/recherche?category=10&locations=Gex_01170__46.33599_6.06112_5000&real_estate_type=2,1
